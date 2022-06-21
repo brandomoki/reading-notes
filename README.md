@@ -1,3 +1,4 @@
+
 # GM
 
 **Growth mindset** _to me is the ability to constantly improve ones self  
@@ -21,4 +22,3 @@ Resizing him was fun. MD doesnt allow you to specify size but HTML does.
 Code provide below
 
 `<img src="image.png" width="200" height="100">`
-
