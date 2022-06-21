@@ -15,4 +15,30 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 
 **My Github** <https://brandomoki.github.io/reading-notes/>
 
+## DayOne Notes 6/20/22  
+
++ **Why markdown**
+  + HTML gives significant control, but slows down authoring
+  + Exist primarily as a way to publish content
+
++ **What is Markdown**
+  + MD is a lightweight markup language for generating content
+
++ **Markdown and Github?**
+  + Github uses MD for everything
+
++ Headings # ## ######
++ `**bold**`  
++ ` _italic_`
++ `>qoute text`
++ `[hyperlink](url)`  
++ `<urlHere>`
+
+
+
+### Markdown Important links
+
+> Basic Syntax <https://www.markdownguide.org/basic-syntax/>  
+> Mastering MD on Github <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>  
+> 
 
