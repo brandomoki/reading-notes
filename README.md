@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# GM
 
-You can use the [editor on GitHub](https://github.com/brandomoki/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Growth mindset** _to me is the ability to constantly improve ones self  
+by being open minded and always wanting to learn more._
+  1. Staying open minded
+  2. Put forth the effort to learn
+  3. Admit that you dont know everything
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Hello, world. My name is Brandon. Pronouns are he/him. I live in Las Vegas but I am originally from Hawaii.  
+I worked in building maintenance/construction field for the last few years after the Army. I am ready and  
+looking forward to making a career change. I have always loved computers, I just couldn't see myself actually  
+sitting behind the desk. I love being able to make what I need irl, so why not be able to do it on a pc. I  
+spend a lot of time in web3 and I want to be able to fully immerse myself in that area.
 
-### Markdown
+**My Github** <https://brandomoki.github.io/reading-notes/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This guy is pretty cool.  
+<img src="https://user-images.githubusercontent.com/104802884/174721804-416873b0-6602-4e01-8439-4e2696378d4e.jpeg
+" width="200" height="200">  
+Resizing him was fun. MD doesnt allow you to specify size but HTML does.  
+Code provide below
 
-```markdown
-Syntax highlighted code block
+`<img src="image.png" width="200" height="100">`
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brandomoki/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
