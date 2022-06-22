@@ -16,8 +16,7 @@ by being open minded and always wanting to learn more._
 **My** [**Github**](https://brandomoki.github.io/reading-notes/)
 
 This guy is pretty cool.  
-<img src="https://user-images.githubusercontent.com/104802884/174721804-416873b0-6602-4e01-8439-4e2696378d4e.jpeg
-" width="200" height="200">  
+<img src="https://user-images.githubusercontent.com/104802884/174721804-416873b0-6602-4e01-8439-4e2696378d4e.jpeg" width="200" height="200">  
 Resizing him was fun.  
 MD doesnt allow you to specify size but HTML does.  
 Code provide below
