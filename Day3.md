@@ -38,4 +38,3 @@ is a file system
 1. git pull (retrieve from main)
 
 **write in vs code to update your git on local**
-

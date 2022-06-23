@@ -26,7 +26,7 @@
   + text edit mac
   + no syntax, no themes, very basic
   
-  **Third party editors
+  **Third party editors**
   + visual studio code
   + atom
   + notepad++
