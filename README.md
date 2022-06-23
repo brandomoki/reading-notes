@@ -12,10 +12,8 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 
 ### Table of Contents
 
-> [**Markdown**](markdown.md)
+> [**Day1/Markdown**](markdown.md)
 >
 > [**Day2**](Day2.md)
 >
 > [**Day3**](Day3.md)
-
-<img src="https://user-images.githubusercontent.com/104802884/174721804-416873b0-6602-4e01-8439-4e2696378d4e.jpeg" width="200" height="200">  
