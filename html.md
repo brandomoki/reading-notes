@@ -1,27 +1,25 @@
-## Day4 HTML
+## **Day4 HTML**
 
-### how to create a wireframe
+### **How to create a wireframe**
 
 + what is a wire frame? its a basic outline of what you're creating
 
 + wireframing is a great way to understand how the interface will work
 
-**type's of wireframing**
+**Type's of wireframing**
 
-    + hand drawn sketch 
-    
-    + digital wireframe
-
++ hand drawn sketch
++ digital wireframe
 + keep it simple
 
-**wireframe flow examples**
+**Wireframe flow examples**
 
 + wireframe > interactive prototype > visual > design
 + sketch > code
 + sketch > wireframe > hi-def wireframe > visual > code 
 + sketch > wireframe > visual > code
 
-**tools**
+**Tools**
 
 + pen paper
 + uxpin
@@ -42,9 +40,28 @@
 1. confidence
 1. simplicity is key
 
-## **html basics**
+## **Html basics**
 
-**hypertext makrup language**
+**Hypertext makrup language**
 
-**what is html?**
+**What is html?**
 > html is a markup language that defines the structure of your content.HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.
+
+**Anatomy of an html element**
+
+1. opening tag <>
+1. closing tag </>
+1. content <>content</>
+1. element all tags and content together
+
+**Example html**
+`<p>paragraph</p>`
+`<h1>heading</h1>`
+`<a>anchor</a>`
+
+## **Semantics**
+
+> In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
+
++ html semantic elements
++ css styling a list `li`
