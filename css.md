@@ -12,4 +12,6 @@
 ### **CSS syntax**
 
 + CSS is a rule based language. Rules are defined by you usings groups or elements
-+
+
++ CSS is the manipulation of data
+
