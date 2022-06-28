@@ -17,3 +17,12 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 > [**Day2**](Day2.md)
 >
 > [**Day3**](Day3.md)
+>
+> [**Day4**](html.md)
+>
+> [**Day5**](css.md)
+>
+> [**Day6**](js.md)
+>
+> [**Day7**](programmingWithJS.md)
+
