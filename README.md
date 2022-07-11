@@ -10,7 +10,7 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 
 **My** [**Github**](https://brandomoki.github.io/reading-notes/)
 
-### Table of Contents
+### Code 102 Reading Notes
 
 > [**Day1/Markdown**](markdown.md)
 >
@@ -26,3 +26,20 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**Day7**](programmingWithJS.md)
 
+### Code 201 Reading Notes
+
+> [**1**]
+> [**2**]
+> [**3**]
+> [**4**]
+> [**5**]
+> [**6**]
+> [**7**]
+> [**8**]
+> [**9**]
+> [**10**]
+> [**11**]
+> [**12**]
+> [**13**]
+> [**14**]
+> [**15**]
