@@ -29,9 +29,7 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 ### Code 201 Reading Notes
 > [**class-01**](class-01.md)
 >
-> [**1**]()
->
-> [**2**]()
+> [**class-02**](class-02.md)
 >
 > [**3**]()
 >
