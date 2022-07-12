@@ -27,7 +27,8 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 > [**Day7**](programmingWithJS.md)
 
 ### Code 201 Reading Notes
-
+> [class-01](class-01.md)
+>
 > [**1**]()
 >
 > [**2**]()
