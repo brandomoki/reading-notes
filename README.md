@@ -12,28 +12,28 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 
 ### Code 102 Reading Notes
 
-> [**Day1/Markdown**](markdown.md)
+> [**Day1/Markdown**](102-notes/markdown.md)
 >
-> [**Day2**](Day2.md)
+> [**Day2**](102-notes/Day2.md)
 >
-> [**Day3**](Day3.md)
+> [**Day3**](102-notes/Day3.md)
 >
-> [**Day4**](html.md)
+> [**Day4**](102-notes/html.md)
 >
-> [**Day5**](css.md)
+> [**Day5**](102-notes/css.md)
 >
-> [**Day6**](js.md)
+> [**Day6**](102-notes/js.md)
 >
-> [**Day7**](programmingWithJS.md)
+> [**Day7**](102-notes/programmingWithJS.md)
 
 ### Code 201 Reading Notes
 > [**class-01**](201-notes/class-01.md)
 >
 > [**class-02**](201-notes/class-02.md)
 >
-> [**3**]()
+> [**class-03**](201-notes/class-03.md)
 >
-> [**5**]()
+> [**class-04**](201-notes/class-04.md)
 >
 > [**6**]()
 >
