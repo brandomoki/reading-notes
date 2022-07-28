@@ -35,17 +35,17 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**class-04**](201-notes/class-04.md)
 >
-> [**6**]()
+> [**class-05**](201-notes/class-05.md))
 >
-> [**7**]()
+> [**class-06**](201-notes/class-06.md)
 >
-> [**8**]()
+> [**class-07**](201-notes/clas-07.md)
 >
-> [**9**]()
+> [**class-08**](201-notes/class-08.md)
 >
-> [**10**]()
+> [**class-09**](201-notes/class-09.md)
 >
-> [**11**]()
+> [**class-10**](201-notes/class-10.md)
 >
 > [**12**]()
 >
