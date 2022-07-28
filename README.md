@@ -47,9 +47,9 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**class-10**](201-notes/class-10.md)
 >
-> [**12**]()
+> [**class-11**](201-notes/class-11.md)
 >
-> [**13**]()
+> [**class-12**](201-notes/class-12.md)
 >
 > [**14**]()
 >
