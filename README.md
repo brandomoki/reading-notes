@@ -10,7 +10,7 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 
 **My** [**Github**](https://brandomoki.github.io/reading-notes/)
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 > [**Day1/Markdown**](102-notes/markdown.md)
 >
@@ -26,7 +26,7 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**Day7**](102-notes/programmingWithJS.md)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 > [**class-01**](201-notes/class-01.md)
 >
 > [**class-02**](201-notes/class-02.md)
@@ -56,3 +56,6 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 > [**15**]()
 >
 > [**Things I want to know more about**]()
+
+
+### Code 301 - Intermediate Software Development
