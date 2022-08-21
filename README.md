@@ -51,11 +51,36 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**class-12**](201-notes/class-12.md)
 >
-> [**14**]()
+> [**class-13**](201-notes/class-13.md)
 >
-> [**15**]()
->
+>[**class-14**](201-notes/class-14a.md)
+
 > [**Things I want to know more about**]()
 
 
 ### Code 301 - Intermediate Software Development
+> [**class_01**](301-Notes/day-01.md)
+>
+> [**class_02**](301-Notes/day_02.md)
+>
+> [**class_03**](301-Notes/day_03.md)
+>
+> [**class_04**](301-Notes/day_04.md)
+>
+> [**class_05**](301-Notes/day_05.md)
+>
+> [**class_06**]()
+>
+> [**class_07**]()
+>
+> [**class_08**]()
+>
+> [**class_09**]()
+>
+> [**class_10**]()
+>
+> [**class_11**]()
+>
+> [**class_12**]()
+>
+> [**class_13**]()
