@@ -69,7 +69,7 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**class_05**](301-Notes/day_05.md)
 >
-> [**class_06**]()
+> [**class_06**](301-Notes/day_06.md)
 >
 > [**class_07**]()
 >
