@@ -73,14 +73,16 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**class_07**](301-Notes/day_07.md)
 >
-> [**class_08**]()
+> [**class_08**](301-Notes/day_08.md)
 >
-> [**class_09**]()
+> [**class_09**](301-Notes/day_09.md)
 >
 > [**class_10**]()
 >
 > [**class_11**]()
 >
-> [**class_12**]()
+> [**class_12**](301-Notes/day_12.md)
 >
 > [**class_13**]()
+>
+> [**class_14**](301-Notes/day_14.md)
