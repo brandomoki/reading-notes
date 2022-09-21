@@ -1,16 +1,10 @@
 
 # Hello, World
 
-> My name is Brandon. Pronouns are he/him. I live in Las Vegas but I am originally from Hawaii.  
-I worked in building maintenance/construction field for the last few years after the Army. I am ready and  
-looking forward to making a career change. I have always loved computers, I just couldn't see myself actually  
-sitting behind the desk. I love being able to make what I need irl, so why not be able to do it on a pc. I  
-spend a lot of time in web3 and I want to be able to fully immerse myself in that area.
-
 
 **My** [**Github**](https://brandomoki.github.io/reading-notes/)
 
-### Code 102 - Intro to Software Development
+### **Code 102** - Intro to Software Development
 
 > [**Day1/Markdown**](102-notes/markdown.md)
 >
@@ -26,7 +20,7 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 >
 > [**Day7**](102-notes/programmingWithJS.md)
 
-### Code 201 - Foundations of Software Development
+### **Code 201** - Foundations of Software Development
 > [**class-01**](201-notes/class-01.md)
 >
 > [**class-02**](201-notes/class-02.md)
@@ -58,7 +52,7 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 > [**Things I want to know more about**]()
 
 
-### Code 301 - Intermediate Software Development
+### **Code 301** - Intermediate Software Development
 > [**class_01**](301-Notes/day-01.md)
 >
 > [**class_02**](301-Notes/day_02.md)
@@ -86,3 +80,15 @@ spend a lot of time in web3 and I want to be able to fully immerse myself in tha
 > [**class_13**]()
 >
 > [**class_14**](301-Notes/day_14.md)
+
+### **Code 401** - Advanced Software Development
+
+> [**class_01**]()
+>
+> [**class_02**]()
+>
+> [**class_03**]()
+>
+> [**class_04**]()
+>
+> [**class_05**]()
