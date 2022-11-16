@@ -1,6 +1,5 @@
 # Reading: Context API
 
-
 ## [Context API](https://reactjs.org/docs/context.html)
 
   1. What can React Context provide your app?
@@ -9,7 +8,6 @@
     - Context should be used when you need to be able to access a prop at the global level
   1. Why should we use it sparingly?
     - It makes component reuse more difficult
-
 
 ## [Awesome React Context links](https://github.com/diegohaz/awesome-react-context)
 
